@@ -13,7 +13,7 @@ android {
     publishNonDefault true
     // Changed by Trumeet@GitHub: remove flavors because we don't need them
     defaultConfig {
-        minSdkVersion 9
+        minSdkVersion 21
     }
     sourceSets {
         // Changed by Trumeet@GitHub: Change source sets to compile in Android Studio.
